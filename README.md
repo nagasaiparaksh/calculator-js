@@ -1,71 +1,35 @@
-Calculator Web App
+# Simple Calculator 🖩
 
-A simple and responsive calculator web application built using HTML, CSS, and JavaScript.
+A basic **Calculator** web application built using **HTML, CSS, and JavaScript**. Perform arithmetic operations with a simple and intuitive UI.
 
-Features
+## 🔥 Features
+- ➕ **Addition**, ➖ **Subtraction**, ✖ **Multiplication**, ➗ **Division**
+- 🎨 **User-friendly interface** with responsive design
+- ⚡ **Lightweight and fast performance**
+- 📱 **Works on desktop & mobile browsers**
 
-Basic arithmetic operations: Addition, Subtraction, Multiplication, and Division
+## 📷 Screenshot
+![Calculator Screenshot](https://github.com/user-attachments/assets/563dc32b-0d70-4243-8555-477583e1bc76)
 
-Responsive design for mobile and desktop users
+## 🚀 How to Use
+1. Enter numbers using the calculator interface.
+2. Click on the desired operation (**+**, **-**, **×**, **÷**).
+3. View the result instantly.
 
-Interactive and user-friendly interface
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/simple-calculator.git
+   ```
+2. Open `index.html` in a browser.
+3. Start calculating! 🎉
 
-Error handling for invalid inputs
+## 🤝 Contributing
+Contributions are welcome! Fork the repo, create a branch, and submit a pull request.
 
-Live Demo
+## 🌟 Show Your Support
+If you like this project, give it a ⭐ on GitHub!
 
-Click here to try the calculator (Replace # with your hosted link)
+---
+Made with ❤️ by [Y Naga Sai Paraksh]
 
-Screenshots
-
- (Replace # with an actual image URL)
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/calculator-web-app.git
-
-Navigate to the project directory:
-
-cd calculator-web-app
-
-Open index.html in your browser:
-
-open index.html
-
-OR
-
-start index.html
-
-Usage
-
-Click the number buttons to input numbers.
-
-Use the operator buttons for calculations.
-
-Click = to display the result.
-
-Click C to clear the input.
-
-Technologies Used
-
-HTML - Structure of the web page
-
-CSS - Styling for a clean UI
-
-JavaScript - Logic for calculator operations
-
-Contributing
-
-If you want to contribute, follow these steps:
-
-Fork the repository
-
-Create a new branch (git checkout -b feature-name)
-
-Commit your changes (git commit -m 'Add new feature')
-
-Push to the branch (git push origin feature-name)
-
-Open a Pull Request
