@@ -3,7 +3,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 101vh;
     background-color: aliceblue;
 }
 
@@ -11,8 +11,8 @@ body{
 #calculator{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(31, 31, 31);
-    border-radius: 15px;
-    max-width: 450px;
+    border-radius: 16px;
+    max-width: 451px;
     overflow: hidden;
 }
 
@@ -30,14 +30,14 @@ button{
     border: none;
     background-color: rgb(68, 67, 67);
     color: white;
-    font-size: 2.5rem;
+    font-size: 2.6rem;
     font-weight: bold;
     cursor: pointer;
 }
 
 #display{
     width: 100%;
-    padding: 20px;
+    padding: 22px;
     font-size: 4rem;
     text-align: left;
     border: none;
